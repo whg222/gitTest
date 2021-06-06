@@ -5,4 +5,6 @@ package com.whg;
  * @date:2021-06-06 22:49
  */
 public class Test1 {
+
+    private int age;
 }
